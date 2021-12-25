@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="authority_string" translatable="false">com.muthuram.previewer</string>
+    <string name="file_path" translatable="false">PreviewerImages</string>
+</resources>
